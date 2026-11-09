@@ -102,7 +102,7 @@ I specialize in building full-stack applications with **Java**, **Spring Boot**,
 
 | Domain | Technologies &amp; Tools |
 | :--- | :--- |
-| **Programming Languages** | `Java` • `Python` • `C` • `C++` • `JavaScript` |
+| **Programming Languages** | `Java` • `Python` • `JavaScript` |
 | **Backend Development** | `Java` • `Spring Boot` • `REST APIs` • `Spring Security` • `JWT` |
 | **Frontend Development** | `HTML5` • `CSS3` • `JavaScript` • `React.js` • `Bootstrap` • `Redux Toolkit` |
 | **Databases** | `MySQL` • `PostgreSQL` • `MongoDB` |
@@ -305,6 +305,6 @@ I am actively seeking opportunities as a **Java Developer**, **Full Stack Develo
 ---
 
 <div align="center">
-  <sub>Designed &amp; Engineered with ❤️ by <a href="https://github.com/anilhosalli18"><b>Anil H</b></a> • Built with Black &amp; Red Aesthetic</sub>
+  <sub>Designed &amp; Engineered with by <a href="https://github.com/anilhosalli18"><b>Anil H</b></a> • Built with Black &amp; Red Aesthetic</sub>
 </div>
 
