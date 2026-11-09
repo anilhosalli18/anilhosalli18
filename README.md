@@ -94,7 +94,7 @@ I specialize in building full-stack applications with **Java**, **Spring Boot**,
 <div align="center">
   <!-- Skillicons Banner -->
   <a href="#technical-skills">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,mongodb,js,python,c,cpp,html,css,bootstrap,redux,git,github,vscode,postman&theme=dark" alt="Technical Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,mongodb,js,python,c,html,css,bootstrap,redux,git,github,vscode,postman&theme=dark" alt="Technical Skills" />
   </a>
 </div>
 
