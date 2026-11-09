@@ -133,7 +133,7 @@
 
     <!-- Pill 6: DSA -->
     <g transform="translate(590, 0)">
-      <rect width="170" height="28" rx="6" fill="#18181B" stroke="#DC2626" stroke-width="1" stroke-opacity="0.6"/>
+      <rect width="170" height="30" rx="6" fill="#18181B" stroke="#DC2626" stroke-width="1" stroke-opacity="0.6"/>
       <circle cx="14" cy="14" r="3.5" fill="#EF4444"/>
       <text x="25" y="18" fill="#F3F4F6" font-family="monospace, 'Segoe UI', sans-serif" font-size="12" font-weight="600">DSA &amp; Problem Solving</text>
     </g>
